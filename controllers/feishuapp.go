@@ -1,5 +1,5 @@
 package controllers
-// test
+
 import (
 	"PrometheusAlert/models"
 	"bytes"
