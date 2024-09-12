@@ -313,3 +313,4 @@ PrometheusAlert 具备如下特性：
 Email: 244217140@qq.com
 
 ----
+测试分支是否创建成功
